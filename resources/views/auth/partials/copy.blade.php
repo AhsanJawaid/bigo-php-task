@@ -1,0 +1,1 @@
+<p class="mt-5 mb-3 text-muted">{{ env('APP_NAME') }} &copy; {{date('Y')}}</p>
